@@ -35,6 +35,7 @@ This notebook demonstrates how to load the models, make predictions, and visuali
 Load and use the pre-trained models as follows:
 ```python
 from model import *
+from utils import *
 
 # Load logP prediction model
 reg_model_mat = GATEdgeAT(multihead_attention=True, return_attention=True)
