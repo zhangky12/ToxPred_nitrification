@@ -1,5 +1,7 @@
 # Leveraging Transfer Learning and Attention-Based Interpretability Enhancement for Small Environmental Datasets: From Prediction of Lipophilicity to Toxicity Towards Nitrifiers![image](https://github.com/zhangky12/ToxPred_nitrification/assets/45570163/44e79221-edca-459d-a93f-986c255c68bb)
 
+![plot](./images/abstract_graph.png)
+
 ## Overview
 This repository contains the code for the paper "Leveraging Transfer Learning and Attention-Based Interpretability Enhancement for Small Environmental Datasets: From Prediction of Lipophilicity to Toxicity Towards Nitrifiers". The project uses transfer learning techniques to learn specific modes of action (toxicity towards nitrification) from baseline toxicity (logP). The interpretability of predictions on small environmental datasets is substantially enhanced with attention mechanisms and Shapley values.
 
