@@ -1,5 +1,7 @@
 # Leveraging Transfer Learning and Attention-Based Interpretability Enhancement for Small Environmental Datasets: From Prediction of Lipophilicity to Toxicity Towards Nitrifiers![image](https://github.com/zhangky12/ToxPred_nitrification/assets/45570163/44e79221-edca-459d-a93f-986c255c68bb)
 
+![plot](./images/abstract_graph.png)
+
 ## Overview
 This repository contains the code for the paper "Leveraging Transfer Learning and Attention-Based Interpretability Enhancement for Small Environmental Datasets: From Prediction of Lipophilicity to Toxicity Towards Nitrifiers". The project uses transfer learning techniques to learn specific modes of action (toxicity towards nitrification) from baseline toxicity (logP). The interpretability of predictions on small environmental datasets is substantially enhanced with attention mechanisms and Shapley values.
 
@@ -16,7 +18,7 @@ This repository contains the code for the paper "Leveraging Transfer Learning an
 ### Setup
 Clone this repository and install the required packages:
 ```bash
-git clone https://github.com/zhangky12/ToxPred_nitrification
+git clone git@github.com:zhangky12/ToxPred_nitrification.git
 cd ToxPred_nitrification
 ```
 
@@ -33,6 +35,7 @@ This notebook demonstrates how to load the models, make predictions, and visuali
 Load and use the pre-trained models as follows:
 ```python
 from model import *
+from utils import *
 
 # Load logP prediction model
 reg_model_mat = GATEdgeAT(multihead_attention=True, return_attention=True)
