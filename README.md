@@ -18,7 +18,7 @@ This repository contains the code for the paper "Leveraging Transfer Learning an
 ### Setup
 Clone this repository and install the required packages:
 ```bash
-git clone https://github.com/zhangky12/ToxPred_nitrification
+git clone git@github.com:zhangky12/ToxPred_nitrification.git
 cd ToxPred_nitrification
 ```
 
