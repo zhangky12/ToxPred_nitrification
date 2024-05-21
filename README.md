@@ -1,4 +1,4 @@
-# Leveraging Transfer Learning and Attention-Based Interpretability Enhancement for Small Environmental Datasets: From Prediction of Lipophilicity to Toxicity Towards Nitrifiers![image](https://github.com/zhangky12/ToxPred_nitrification/assets/45570163/44e79221-edca-459d-a93f-986c255c68bb)
+# Leveraging Transfer Learning and Attention-Based Interpretability Enhancement in Graph Neural Networks for Small Environmental Datasets![image](https://github.com/zhangky12/ToxPred_nitrification/assets/45570163/44e79221-edca-459d-a93f-986c255c68bb)
 
 ![plot](./images/abstract_graph.png)
 
