@@ -3,7 +3,7 @@
 ![plot](./images/abstract_graph.png)
 
 ## Overview
-This repository contains the code for the paper "Leveraging Transfer Learning and Attention-Based Interpretability Enhancement in Graph Neural Networks for Small Environmental Datasets". The project uses transfer learning techniques to learn specific modes of action (toxicity towards nitrification) from baseline toxicity (logP). The interpretability of predictions on small environmental datasets is substantially enhanced with attention mechanisms and Shapley values.
+This repository contains the code for the paper "Predicting Toxicity towards Nitrifiers by Attention-Enhanced Graph Neural Networks and Transfer Learning from Baseline Toxicity" applewebdata://5FBFFC82-46FA-458F-8B88-CC854FA413AC/'https://doi.org/10.1021/acs.est.4c12247\'. The project uses transfer learning techniques to learn specific modes of action (toxicity towards nitrification) from baseline toxicity (logP). The interpretability of predictions on small environmental datasets is substantially enhanced with attention mechanisms and Shapley values.
 
 ## Installation
 
